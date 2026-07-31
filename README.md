@@ -1,6 +1,16 @@
 ### 📫 Connect with Me
 
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="16" height="16" /> **X:** [@jwlankford](https://x.com/jwlankford)
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" height="16" /> **LinkedIn:** [Jeremy Lankford](https://www.linkedin.com/in/jwlankford)
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="16" height="16" /> **Facebook:** [jeremylankfordmba](https://www.facebook.com/jeremylankfordmba)
-* <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="16" height="16" /> **Website:** [jeremylankford.com](https://jeremylankford.com)
+<p align="left">
+  <a href="https://x.com/jwlankford" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/jwlankford" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/jeremylankfordmba" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://jeremylankford.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
