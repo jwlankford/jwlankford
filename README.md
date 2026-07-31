@@ -30,7 +30,8 @@ Senior Software Engineer and Enterprise Systems Architect with over three decade
 
 ### 📫 Connect with Me
 
-- ![](https://img.shields.io/badge/-000?style=social&logo=x) **X:** [@jwlankford](https://x.com/jwlankford)
-- ![](https://img.shields.io/badge/-000?style=social&logo=linkedin) **LinkedIn:** [Jeremy Lankford](https://www.linkedin.com/in/jwlankford)
-- ![](https://img.shields.io/badge/-000?style=social&logo=facebook) **Facebook:** [jeremylankfordmba](https://www.facebook.com/jeremylankfordmba)
-- ![](https://img.shields.io/badge/-000?style=social&logo=googlechrome) **Website:** [jeremylankford.com](https://jeremylankford.com)
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" width="16" height="16" /> **Email:** [jwlankford@gmail.com](mailto:jwlankford@gmail.com)
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" width="16" height="16" /> **Email:** me@example.com
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/github.svg" width="16" height="16" /> **GitHub:** [username](https://github.com/username)
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" /> **Education:** PhD Student
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/terminal.svg" width="16" height="16" /> **Tech:** Python, FastAPI, Vue
