@@ -31,7 +31,7 @@ Senior Software Engineer and Enterprise Systems Architect with over three decade
 ### 📫 Connect with Me
 
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" width="16" height="16" /> **Email:** [jwlankford@gmail.com](mailto:jwlankford@gmail.com)
-- ![Email](icons/envelope.svg)
+- <img src="icons/envelope.svg" width="16" height="16" alt="Envelope" />
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/github.svg" width="16" height="16" /> **GitHub:** [jwlankford](https://github.com/jwlankford)
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" /> **Education:** PhD Student
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/terminal.svg" width="16" height="16" /> **Tech:** Python, FastAPI, Vue
