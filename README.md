@@ -1,45 +1,34 @@
-# Vue 3 + TypeScript + Vite
+# Hi there, I'm Jeremy 👋
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Senior Software Engineer | Enterprise Architect | PhD Student (IT / AI Focus)**
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-
-# Jeremy Lankford: Crafting Engaging Front-End Experiences
-
-Hello there! This is the repository for my personal profile website, a showcase of my work and skills as a **Software Engineer** with a passion for **Front-End Development**. I specialize in creating intuitive and high-performance web applications, leveraging the power of leading frameworks like **React**, **Angular**, and **Vue.js**.
+Senior Software Engineer and Enterprise Systems Architect with over three decades of experience, currently pursuing doctoral research focused on Artificial Intelligence. Specializing in Agentic AI design, LLMOps, and the AI Development Life Cycle (ADLC).
 
 ---
 
-## Getting Started
+### 🛠️ Tech Stack & Expertise
 
-To set up and run this project locally, simply:
+**Languages & Frameworks**  
+`Python` `Vue.js` `TypeScript` `Vite` `Tailwind CSS` `Django` `React` `SQL` `FastAPI`
 
-```bash
-pnpm install
-```
+**AI, Data & Agentic Systems**  
+`Agentic Workflows` `LLMOps & Evaluation` `Jupyter` `Google Colab` `PostgreSQL (Neon)`
 
-# Development & Production
-Here are the essential commands to get this site running:
+**Architecture & Tooling**  
+`Enterprise Systems Architecture` `Google Antigravity` `Cloudflare` `CI/CD & GitHub Actions`
 
-## Development Mode
-Runs the app in development mode. Open http://localhost:8080 to view it in your browser. The page will hot-reload upon changes.
+---
 
-```bash
-pnpm run serve
-```
+### 🚀 Active Focus & Projects
 
-# Production Build
-Builds the app for production to the dist directory. This command bundles Vue in production mode and optimizes the build for the best performance.
+- 🎓 **Academic Research:** Doctoral focus on AI/IT systems, Agentic decision loops, and evaluating non-deterministic architectures.
+- 🤖 **Agentic AI & ADLC:** Engineering hands-on evaluation frameworks and robust multi-agent orchestration.
+- 📚 **Technical Education:** Authoring practical curriculum on LLMOps, AI system testing, and modern ADLC for senior engineering leaders.
+- ⚡ **Pipelines & Cloud:** Building event-driven, asynchronous Python architectures integrated with cloud-native data stores.
 
-```bash
-pnpm run build
-```
+---
 
-# Code Quality
-Runs ESLint to find and fix code style issues.
+### 📫 Connect with Me
 
-```bash
-pnpm run lint
-```
-
-
+- **X:** [@jwlankford](https://x.com/jwlankford)
+- **Website:** [jeremylankford.com](https://jeremylankford.com)
