@@ -31,7 +31,9 @@ Senior Software Engineer and Enterprise Systems Architect with over three decade
 ### 📫 Connect with Me
 
 * <img src="https://api.iconify.design/fa6-brands/github.svg?color=%2324292e" width="16" height="16" /> **GitHub:** [jwlankford](https://github.com/jwlankford)
-* <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%238A2BE2" width="16" height="16" /> **Education:** PhD Student
+* <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%238A2BE2" width="16" height="16" />
+- <img src="https://api.iconify.design/simple-icons/substack.svg?color=%23FF6719" width="16" height="16" /> **Substack:** [Jeremy's Newsletter](https://substack.com/@jeremyjwlankford)
+**Education:** PhD Student
 * <img src="https://api.iconify.design/fa6-solid/terminal.svg?color=%2310B981" width="16" height="16" /> **Tech:** Python, FastAPI, Vue
 * <img src="https://api.iconify.design/fa6-brands/x-twitter.svg?color=%231DA1F2" width="16" height="16" /> **X:** [@jwlankford](https://x.com/jwlankford)
 * <img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230A66C2" width="16" height="16" /> **LinkedIn:** [Jeremy Lankford](https://www.linkedin.com/in/jwlankford)
