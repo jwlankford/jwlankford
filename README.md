@@ -34,8 +34,6 @@ Senior Software Engineer and Enterprise Systems Architect with over three decade
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/github.svg" width="16" height="16" /> **GitHub:** [jwlankford](https://github.com/jwlankford)
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" /> **Education:** PhD Student
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/terminal.svg" width="16" height="16" /> **Tech:** Python, FastAPI, Vue
-- ### 📫 Connect with Me
-
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/x-twitter.svg" width="16" height="16" /> **X:** [@jwlankford](https://x.com/jwlankford)
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/linkedin.svg" width="16" height="16" /> **LinkedIn:** [Jeremy Lankford](https://www.linkedin.com/in/jwlankford)
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/facebook.svg" width="16" height="16" /> **Facebook:** [jeremylankfordmba](https://www.facebook.com/jeremylankfordmba)
